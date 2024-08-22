@@ -56,4 +56,4 @@ Building this QR code component was more than just a project; it was a comprehen
 ## Author
 
 - Frontend Mentor - [@Mhista-Fortune](https://www.frontendmentor.io/profile/Mhista-Fortune)
-- Twitter - [@fortunate_egwu](https://www.twitter.com/fortunate_egwu)
+- Twitter - [@fortunate_egwu](https://www.twitter.com/fortunate_egwu)"# QR-Code-Component" 
